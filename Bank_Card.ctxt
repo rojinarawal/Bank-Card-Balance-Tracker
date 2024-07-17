@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Bank_Card
+comment0.text=\r\n\ Write\ a\ description\ of\ Bank_Card\ class.\r\n\ \r\n\ @author(Rojina\ Rawal)\r\n\ @Date(21st\ Jan)\r\n
+comment1.params=BalanceAmount\ card_Id\ bank_account\ issuerbank
+comment1.target=Bank_Card(int,\ int,\ java.lang.String,\ java.lang.String)
+comment1.text=Bank_Card\ constructor\ is\ used\ to\ create\ new\ objects\ of\ Bank_Card\ class\ and\ initialize\ their\ fields.\r\nHere,the\ constructor\ takes\ four\ parameters
+comment2.params=
+comment2.target=int\ getcard_Id()
+comment3.params=
+comment3.target=java.lang.String\ getclient_name()
+comment3.text=getter\ method\ which\ returns\ the\ value\ of\ current\ object's\ client_name\ variable\ but\ here\ as\ assigned\ in\ the\ constructor,\r\nthe\ getter\ will\ return\ an\ empty\ string.
+comment4.params=
+comment4.target=java.lang.String\ getissuerbank()
+comment5.params=
+comment5.target=java.lang.String\ getbank_account()
+comment6.params=
+comment6.target=int\ getBalanceAmount()
+comment7.params=client_name
+comment7.target=void\ setclient_name(java.lang.String)
+comment7.text=Setter\ method\ called\ "setclient_name()"\ assigns\ the\ value\ of\ the\ argument\ "client_name"\ to\ the\ class\ variable\ "client_name.\r\nIt\ permits\ methods\ or\ classes\ to\ change\ the\ "client\ name"\ variable's\ value\ from\ outside\ the\ class\ also\ it\ doestn't\ return\ any\ value
+comment8.params=BalanceAmount
+comment8.target=void\ setBalanceAmount(int)
+comment9.params=
+comment9.target=void\ display()
+numComments=10

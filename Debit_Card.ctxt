@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Debit_Card
+comment0.text=\r\n\ Write\ a\ description\ of\ Debit_Card\ class.\r\n\ \r\n\ @author(Rojina\ Rawal)\r\n\ @Date(21\ Jan)\r\n
+comment1.params=BalanceAmount\ card_Id\ bank_account\ issuerbank\ client_name\ PIN_number
+comment1.target=Debit_Card(int,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment1.text=Debit_Card\ constructor\ initializes\ the\ Debit_Card\ class\ object\ by\ taking\ in\ 6\ parameters\ and\r\nassigns\ them\ to\ the\ corresponding\ fields\ of\ the\ class.
+comment2.params=
+comment2.target=int\ getPIN_number()
+comment3.params=
+comment3.target=int\ getWithdrawal_Amount()
+comment4.params=
+comment4.target=java.lang.String\ getdate_Of_Withdrawal()
+comment5.params=
+comment5.target=boolean\ gethasWithdrawn()
+comment6.params=Withdrawal_Amount
+comment6.target=void\ setWithdrawal_Amount(int)
+comment7.params=Withdrawal_Amount\ date_Of_Withdrawal\ PIN_number
+comment7.target=void\ withdraw(int,\ java.lang.String,\ int)
+comment8.params=
+comment8.target=void\ display()
+numComments=9
